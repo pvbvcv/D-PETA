@@ -62,5 +62,5 @@ SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 ![image](https://github.com/user-attachments/assets/42d25d41-b631-4788-9883-2a48ab2816dc)
 
 ## 5.Acknowledgement
-This repo is modified from open source SFDAKD codebase [MAPS](https://github.com/YuheD/MAPS?tab=readme-ov-file).
+This repo is modified from open source SFDAKD codebase [MAPS](https://github.com/YuheD/MAPS?tab=readme-ov-file), [SFDAHPE](https://github.com/davidpengucf/SFDAHPE.).
 
