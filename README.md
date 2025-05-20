@@ -22,3 +22,7 @@ SFDAHPE(D-PETA)
 **You can use the [environment.yml](https://github.com/pvbvcv/D-PETA/blob/main/environment.yml) to create your conda environment.**
 
 ## 2. Training
+### source model training
+`python human_src.py`
+### adaptation
+`python human_tgt.py`
