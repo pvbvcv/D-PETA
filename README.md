@@ -37,10 +37,10 @@ SFDAHPE(D-PETA)
 **[SURREAL(source data)]()**
 
 `@INPROCEEDINGS{varol17_surreal,
-  title     = {Learning from Synthetic Humans},
-  author    = {Varol, G{\"u}l and Romero, Javier and Martin, Xavier and Mahmood, Naureen and Black, Michael J. and Laptev, Ivan and Schmid, Cordelia},
+  title = {Learning from Synthetic Humans},
+  author = {Varol, G{\"u}l and Romero, Javier and Martin, Xavier and Mahmood, Naureen and Black, Michael J. and Laptev, Ivan and Schmid, Cordelia},
   booktitle = {CVPR},
-  year      = {2017}
+  year = {2017}
 }`
 
 
