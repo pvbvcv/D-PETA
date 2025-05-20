@@ -19,4 +19,4 @@ SFDAHPE(D-PETA)
 - urllib3==1.26.13
 - webcolors==1.13
 
-**You can use the environment.yml to create your conda environment.**
+**You can use the [environment.yml](https://github.com/pvbvcv/D-PETA/blob/main/environment.yml) to create your conda environment.**
