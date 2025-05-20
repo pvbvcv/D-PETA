@@ -56,4 +56,4 @@ SFDAHPE(D-PETA)
 
 ### usage of data
 
-**You should use source data to train the source model by human_src.py and use target data to complete adaptation.**
+**You should use source data to train the source model by human_src.py and use target data to complete adaptation by human_tgt.py.**
