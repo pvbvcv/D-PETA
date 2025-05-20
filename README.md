@@ -36,7 +36,23 @@ SFDAHPE(D-PETA)
 ## 3. Data
 **[SURREAL(source data)]()**
 
+`@INPROCEEDINGS{varol17_surreal,
+  title     = {Learning from Synthetic Humans},
+  author    = {Varol, G{\"u}l and Romero, Javier and Martin, Xavier and Mahmood, Naureen and Black, Michael J. and Laptev, Ivan and Schmid, Cordelia},
+  booktitle = {CVPR},
+  year      = {2017}
+}`
+
+
 **[LSP(target data) data](https://drive.google.com/file/d/1oXHX57tH7q-8F08sQbm8fwXJEcUWjtF9/view?usp=drive_link)**
+
+`@inproceedings{Johnson10,
+   title = {Clustered Pose and Nonlinear Appearance Models for Human Pose Estimation},
+   author = {Johnson, Sam and Everingham, Mark},
+   year = {2010},
+   booktitle = {Proceedings of the British Machine Vision Conference},
+   note = {doi:10.5244/C.24.12}
+}`
 
 ### usage of data
 
