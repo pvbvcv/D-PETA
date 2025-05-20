@@ -1,5 +1,5 @@
 # D-PETA
-SFDAHPE(D-PETA)
+SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 
 ## 1. Prerequisites
 
