@@ -23,6 +23,11 @@ SFDAHPE(D-PETA)
 
 ## 2. Training
 ### source model training
-`python human_src.py`
+
+#### single GPU  `python human_src.py`
+#### multi GPU `CUDA_VISIBLE_DEVICES=x,x,x,x python human_src.py`
+
 ### adaptation
-`python human_tgt.py`
+
+#### single GPU  `python human_tgt.py`
+#### multi GPU `CUDA_VISIBLE_DEVICES=x,x,x,x python human_tgt.py`
