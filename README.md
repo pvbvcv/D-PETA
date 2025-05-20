@@ -38,3 +38,4 @@ SFDAHPE(D-PETA)
 
 ** [target data](https://drive.google.com/file/d/1oXHX57tH7q-8F08sQbm8fwXJEcUWjtF9/view?usp=drive_link) **
 
+** you should use source data to train the source model by human_src.py and use target data to complete adaptation **
