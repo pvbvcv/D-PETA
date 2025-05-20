@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22f2b41d-1181-41bc-aee3-21f3c8a347cf)# D-PETA
+# D-PETA
 SFDAHPE(D-PETA)
 
 ## 1. Prerequisites
@@ -59,7 +59,7 @@ SFDAHPE(D-PETA)
 **You should use source data to train the source model by human_src.py and use target data to complete adaptation by human_tgt.py.**
 
 ## 4. Result
-
+![image](https://github.com/user-attachments/assets/22f2b41d-1181-41bc-aee3-21f3c8a347cf)
 
 ## 5.Acknowledgement
 This repo is modified from open source SFDAKD codebase [MAPS](https://github.com/YuheD/MAPS?tab=readme-ov-file).
