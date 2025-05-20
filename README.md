@@ -32,3 +32,8 @@ SFDAHPE(D-PETA)
 #### single GPU  `python human_tgt.py`
 #### multi GPU `CUDA_VISIBLE_DEVICES=x,x,x,x python human_tgt.py`
 **we use single 3090 gpu to complete this experiment**
+
+## 3. Data
+** [source data]() **
+** [target data](https://drive.google.com/file/d/1oXHX57tH7q-8F08sQbm8fwXJEcUWjtF9/view?usp=drive_link) **
+
