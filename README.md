@@ -44,7 +44,7 @@ SFDAHPE(D-PETA)
 }`
 
 
-**[LSP(target data) data](https://drive.google.com/file/d/1oXHX57tH7q-8F08sQbm8fwXJEcUWjtF9/view?usp=drive_link)**
+**[LSP(target data)](https://drive.google.com/file/d/1oXHX57tH7q-8F08sQbm8fwXJEcUWjtF9/view?usp=drive_link)**
 
 `@inproceedings{Johnson10,
    title = {Clustered Pose and Nonlinear Appearance Models for Human Pose Estimation},
