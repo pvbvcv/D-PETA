@@ -4,7 +4,7 @@ SFDAHPE(D-PETA)
 ## 1. Prerequisites
 
 ### Dependencies
-- accelerate==0.33.0
+    - accelerate==0.33.0
     - appdirs==1.4.4
     - calflops==0.3.2
     - causal-conv1d==1.0.0
