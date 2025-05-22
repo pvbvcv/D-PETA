@@ -56,7 +56,7 @@ SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 
 ### usage of data
 
-**You should use source data to train the source model by human_src.py and use target data to complete adaptation by human_tgt.py.**
+**You should use the source data to train source model by human_src.py and use the target data to complete adaptation by human_tgt.py.**
 
 ## 4. Result
 ![image](https://github.com/user-attachments/assets/42d25d41-b631-4788-9883-2a48ab2816dc)
