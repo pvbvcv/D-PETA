@@ -31,7 +31,7 @@ SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 
 #### single GPU  `python human_tgt.py`
 #### multi GPU `CUDA_VISIBLE_DEVICES=x,x,x,x python human_tgt.py`
-**we use single 3090 gpu to complete this experiment**
+**we use single 3090 gpu to complete the experiment**
 
 ## 3. Data
 **[SURREAL(source data)](https://drive.google.com/file/d/1mwZGHMolb9utu60pUjLSPszfRfK1n1XX/view?usp=drive_link)**
@@ -56,7 +56,7 @@ SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 
 ### usage of data
 
-**You should use the source data to train source model by human_src.py and use the target data to complete adaptation by human_tgt.py.**
+**You should use the source data to train source model by human_src.py and use the target data to complete the adaptation by human_tgt.py.**
 
 ## 4. Result
 ![image](https://github.com/user-attachments/assets/42d25d41-b631-4788-9883-2a48ab2816dc)
