@@ -1,4 +1,4 @@
-# D-PETA
+# D-PETA was accepted by Visual Intelligence
 SFDAKD(Source Free Domain Adaptation Keypoint Detection)
 
 ## 1. Prerequisites
